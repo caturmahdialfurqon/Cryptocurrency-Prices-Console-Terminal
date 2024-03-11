@@ -13,7 +13,7 @@ usage:
 
 #### *screenshot* OUTPUT
 
-<img src="/IMG/ssoutput.png" width=600>
+<img src="/IMG/xc.png" width=600>
 
 
 ## 🤜🏻🤛🏻 For Support
